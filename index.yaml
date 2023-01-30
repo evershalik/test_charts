@@ -8,6 +8,6 @@ entries:
     icon: https://guide.opencord.org/logos/cord.svg
     name: 5g-control-plane
     urls:
-    - https://github.com/evershalik/test_charts.git/5g-control-plane-0.1.0.tgz
+    - https://github.com/evershalik/test_charts/blob/main/5g-control-plane-0.1.0.tgz
     version: 0.1.0
 generated: "2023-01-30T14:42:13.828158429+05:30"
